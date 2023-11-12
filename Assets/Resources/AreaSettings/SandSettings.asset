@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df36a49706150734d91fe3b97e15370c, type: 3}
+  m_Name: SandSettings
+  m_EditorClassIdentifier: 
+  maxObjects: 6
+  gameObjectList:
+  - maxObjects: 0
+    prefab: {fileID: 105747472822831228, guid: 3f9e235c0eac37345a6514ed2e5caf91, type: 3}
+    isLimited: 0
+    numberOfCopies: 0
+  - maxObjects: 0
+    prefab: {fileID: 6128157610193046570, guid: 331cd1e7f30293d46a4e504de8b1373e, type: 3}
+    isLimited: 0
+    numberOfCopies: 0
+  - maxObjects: 0
+    prefab: {fileID: 8614323675958017626, guid: 85f3c29a91c6b33468d70344b9c679b6, type: 3}
+    isLimited: 1
+    numberOfCopies: 3

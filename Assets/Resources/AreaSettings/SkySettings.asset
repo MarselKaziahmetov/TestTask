@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df36a49706150734d91fe3b97e15370c, type: 3}
+  m_Name: SkySettings
+  m_EditorClassIdentifier: 
+  maxObjects: 10
+  gameObjectList:
+  - maxObjects: 0
+    prefab: {fileID: 9061849443589880353, guid: 86681238a883bfb4ba7b7b9237d53b1c, type: 3}
+    isLimited: 0
+    numberOfCopies: 0
+  - maxObjects: 0
+    prefab: {fileID: 4465794385449007173, guid: 06079885cac8dde41af4e8dafe23e60a, type: 3}
+    isLimited: 0
+    numberOfCopies: 0
+  - maxObjects: 0
+    prefab: {fileID: 7941239859000033429, guid: ebda761a02d419a4993fa745db61a909, type: 3}
+    isLimited: 0
+    numberOfCopies: 0
+  - maxObjects: 0
+    prefab: {fileID: 3608105297942728386, guid: 401ca3a10af322340ad835a7c2d2d624, type: 3}
+    isLimited: 0
+    numberOfCopies: 0
+  - maxObjects: 0
+    prefab: {fileID: 2503906372191356875, guid: 3877636efeb239142b2f1d869112ada5, type: 3}
+    isLimited: 1
+    numberOfCopies: 1
